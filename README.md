@@ -44,7 +44,11 @@ https://github.com/user-attachments/assets/d739b47b-3748-478f-aa2d-533ecf944647
 
 
 
-MAYA Rigging  
+
+https://github.com/user-attachments/assets/3e4b01ed-2059-403c-b563-cf6cf32f0e62
+
+
+MAYA Rigging
 
 
 https://github.com/user-attachments/assets/332deaa2-df03-4e64-b742-22aa91213e53
@@ -52,7 +56,6 @@ https://github.com/user-attachments/assets/332deaa2-df03-4e64-b742-22aa91213e53
 
 
 https://github.com/user-attachments/assets/9e27506f-652e-471a-9c1d-78db10f639a1
-
 
 
 
