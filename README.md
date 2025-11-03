@@ -4,7 +4,11 @@ Skilled at bridging the gap between visual design and technical implementation. 
 
 
 
-https://github.com/user-attachments/assets/ab79d478-0bb8-4c25-bf11-4a51d9d7338b
+
+
+
+https://github.com/user-attachments/assets/e67eb8f6-84ac-4aca-a393-7f03fb969a51
+
 
 
 
