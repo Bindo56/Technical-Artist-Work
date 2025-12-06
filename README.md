@@ -4,10 +4,24 @@ Skilled at bridging the gap between visual design and technical implementation. 
 
 
 
-
+https://github.com/user-attachments/assets/2b003e58-ff02-470c-a38a-52b23748a8b2
+Using VFX Graph for rain , repple , and rain drops
 
 
 https://github.com/user-attachments/assets/e67eb8f6-84ac-4aca-a393-7f03fb969a51
+Made HLSL Shader for Chrachter Glow and VFX Grapf for Environment lighting.
+
+
+
+https://github.com/user-attachments/assets/2006c91a-b7c2-4328-95b0-e1e43847db1d
+
+Using VFX Graph Unity
+
+
+
+https://github.com/user-attachments/assets/8bada2df-31d6-4f60-ba32-6c9889c2a4d0
+
+Volumetric FOG in Unity HDRP
 
 
 
