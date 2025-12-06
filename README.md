@@ -5,10 +5,12 @@ Skilled at bridging the gap between visual design and technical implementation. 
 
 
 https://github.com/user-attachments/assets/2b003e58-ff02-470c-a38a-52b23748a8b2
+
 Using VFX Graph for rain , repple , and rain drops
 
 
 https://github.com/user-attachments/assets/e67eb8f6-84ac-4aca-a393-7f03fb969a51
+
 Made HLSL Shader for Chrachter Glow and VFX Grapf for Environment lighting.
 
 
