@@ -1,6 +1,9 @@
 # Technical-Artist-Work
 Skilled at bridging the gap between visual design and technical implementation. Experienced in lighting, rigging, shader creation, and level setup across Unity and Unreal Engine. Strong understanding of real-time rendering, optimization, and asset pipelines, with hands-on experience in C#, C++, and Blueprints.
 
+For MAYA 3D Modeling and 2D Artwork 
+
+[Artstation](https://www.artstation.com/bindo56)
 
 
 
@@ -73,7 +76,7 @@ https://github.com/user-attachments/assets/3e4b01ed-2059-403c-b563-cf6cf32f0e62
 MAYA Rigging 
 For MAYA 3D Modeling and 2D Artwork 
 
-[https://www.artstation.com/bindo56](Artstation)
+[Artstation](https://www.artstation.com/bindo56)
 
 https://github.com/user-attachments/assets/332deaa2-df03-4e64-b742-22aa91213e53
 
