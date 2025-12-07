@@ -70,8 +70,10 @@ https://github.com/user-attachments/assets/d739b47b-3748-478f-aa2d-533ecf944647
 https://github.com/user-attachments/assets/3e4b01ed-2059-403c-b563-cf6cf32f0e62
 
 
-MAYA Rigging
+MAYA Rigging 
+For MAYA 3D Modeling and 2D Artwork 
 
+[https://www.artstation.com/bindo56](Artstation)
 
 https://github.com/user-attachments/assets/332deaa2-df03-4e64-b742-22aa91213e53
 
