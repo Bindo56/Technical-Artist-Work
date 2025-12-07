@@ -4,7 +4,7 @@ Skilled at bridging the gap between visual design and technical implementation. 
 For MAYA 3D Modeling and 2D Artwork 
 [Artstation](https://www.artstation.com/bindo56)
 
-Maya Animations [Jump to Animations](#maya-animations)
+Maya Animations [Scroll To Animations Sections](#maya-animations)
 
 Real-Time VFX (Unity HDRP)
 
