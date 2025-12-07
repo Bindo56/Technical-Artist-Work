@@ -2,20 +2,21 @@
 Skilled at bridging the gap between visual design and technical implementation. Experienced in lighting, rigging, shader creation, and level setup across Unity and Unreal Engine. Strong understanding of real-time rendering, optimization, and asset pipelines, with hands-on experience in C#, C++, and Blueprints.
 
 For MAYA 3D Modeling and 2D Artwork 
-
 [Artstation](https://www.artstation.com/bindo56)
 
+Maya Animations [Jump to Animations](#maya-animations)
 
+Real-Time VFX (Unity HDRP)
 
 https://github.com/user-attachments/assets/2b003e58-ff02-470c-a38a-52b23748a8b2
 
-Made Rain , Repple , and Rain drops using VFX_Graph in Unity HDRP
+Made Rain , Repple , and Rain drops using VFX_Graph
 
 
 
 https://github.com/user-attachments/assets/a368e9c9-7b07-4ec9-9d16-1b20447a12b0
 
-Signed Distance Fields (SDFs) in the Visual Effect Graph Unity HDRP
+Signed Distance Fields (SDFs) in the Visual Graph
 
 
 https://github.com/user-attachments/assets/e67eb8f6-84ac-4aca-a393-7f03fb969a51
@@ -26,7 +27,7 @@ Made HLSL Shader for Chrachter Glow and VFX Grapf for Environment lighting.
 
 https://github.com/user-attachments/assets/2006c91a-b7c2-4328-95b0-e1e43847db1d
 
-Made Snow Fall and Decals where the snow lands Using VFX Graph Unity HDRP
+Made Snow Fall and Decals where the snow lands Using VFX Graph
 
 
 
@@ -72,11 +73,11 @@ https://github.com/user-attachments/assets/d739b47b-3748-478f-aa2d-533ecf944647
 
 https://github.com/user-attachments/assets/3e4b01ed-2059-403c-b563-cf6cf32f0e62
 
+<a name="maya-animations"></a>
 
+## Maya Animations
 MAYA Rigging 
-For MAYA 3D Modeling and 2D Artwork 
 
-[Artstation](https://www.artstation.com/bindo56)
 
 https://github.com/user-attachments/assets/332deaa2-df03-4e64-b742-22aa91213e53
 
