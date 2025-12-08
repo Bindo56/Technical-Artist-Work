@@ -31,6 +31,15 @@ Made Snow Fall and Decals where the snow lands Using VFX Graph
 
 
 
+https://github.com/user-attachments/assets/fdcbcc53-ddd9-4b3a-9939-aec4c3df47da
+Its an Galaxy Sim Using Unity DOTS 
+
+
+https://github.com/user-attachments/assets/457c0ca6-cbb6-4183-800b-bd7e535db43a
+Animations Prefab
+
+
+
 https://github.com/user-attachments/assets/8bada2df-31d6-4f60-ba32-6c9889c2a4d0
 
 Made Volumetric FOG usng VFX_Graph in Unity HDRP
