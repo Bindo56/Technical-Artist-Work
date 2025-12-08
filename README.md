@@ -19,6 +19,12 @@ https://github.com/user-attachments/assets/a368e9c9-7b07-4ec9-9d16-1b20447a12b0
 Signed Distance Fields (SDFs) in the Visual Graph
 
 
+
+https://github.com/user-attachments/assets/fdcbcc53-ddd9-4b3a-9939-aec4c3df47da
+
+Its an Galaxy Sim Using Unity DOTS 
+
+
 https://github.com/user-attachments/assets/e67eb8f6-84ac-4aca-a393-7f03fb969a51
 
 Made HLSL Shader for Chrachter Glow and VFX Grapf for Environment lighting.
@@ -30,14 +36,9 @@ https://github.com/user-attachments/assets/2006c91a-b7c2-4328-95b0-e1e43847db1d
 Made Snow Fall and Decals where the snow lands Using VFX Graph
 
 
-
-https://github.com/user-attachments/assets/fdcbcc53-ddd9-4b3a-9939-aec4c3df47da
-Its an Galaxy Sim Using Unity DOTS 
-
-
 https://github.com/user-attachments/assets/457c0ca6-cbb6-4183-800b-bd7e535db43a
-Animations Prefab
 
+Animations Prefab
 
 
 https://github.com/user-attachments/assets/8bada2df-31d6-4f60-ba32-6c9889c2a4d0
