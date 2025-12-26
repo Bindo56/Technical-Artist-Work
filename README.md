@@ -14,6 +14,15 @@ Made Rain , Repple , and Rain drops using VFX_Graph
 
 
 
+https://github.com/user-attachments/assets/f6e5b1e7-c169-48ce-a303-c1309ef89987
+
+Stretch & Squash Rig Tool (Unity – IAnimationJob)
+
+A procedural Stretch & Squash system for Unity built using a low-level IAnimationJob and Unity’s Animation Rigging / Playables pipeline.
+
+This tool applies stretch and squash directly in the animation stream, layered non-destructively on top of IK and existing animations.
+
+
 https://github.com/user-attachments/assets/a368e9c9-7b07-4ec9-9d16-1b20447a12b0
 
 Signed Distance Fields (SDFs) in the Visual Graph
