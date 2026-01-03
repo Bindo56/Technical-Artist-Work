@@ -6,6 +6,12 @@ For MAYA 3D Modeling and 2D Artwork
 
 Maya Animations [Scroll To Animations Sections](#maya-animations)
 
+
+https://github.com/user-attachments/assets/0c6387ca-11e8-4e7e-917e-fdc3c7633b80
+
+fully modular character clothing system using a single shared humanoid skeleton.
+
+
 Real-Time VFX (Unity HDRP)
 
 https://github.com/user-attachments/assets/2b003e58-ff02-470c-a38a-52b23748a8b2
