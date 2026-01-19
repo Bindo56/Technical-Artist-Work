@@ -7,6 +7,16 @@ For MAYA 3D Modeling and 2D Artwork
 Maya Animations [Scroll To Animations Sections](#maya-animations)
 
 
+https://github.com/user-attachments/assets/bf4a4a49-79ce-4c54-9b36-95a101dd8574
+
+Blade Trace FX – Procedural Look Development (Houdini)
+
+
+https://github.com/user-attachments/assets/ab561dfb-3314-47a4-82a9-7296e9574e01
+
+Unreal VFX Niagara System & Niagara Emitter used to made this 
+
+
 https://github.com/user-attachments/assets/0c6387ca-11e8-4e7e-917e-fdc3c7633b80
 
 fully modular character clothing system using a single shared humanoid skeleton.
