@@ -8,6 +8,13 @@ Maya Animations [Scroll To Animations Sections](#maya-animations)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Motion builder 
+
+https://github.com/user-attachments/assets/140bd341-32d7-4d23-a8ee-0359ae0b5f72
+
+Created a merged animation sequence in MotionBuilder to explore how large-scale production pipelines organize and integrate multiple motion clips into cohesive character behavior.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Motion Builder 
 
