@@ -14,6 +14,7 @@ https://github.com/user-attachments/assets/891a6e34-9bbe-42e1-bb24-677dfa32f2d2
 
 Retargeted humanoid animation to a cartoon rig in MotionBuilder, focusing on pipeline workflow and skeleton mapping. (Hand motion requires further refinement :sweat_smile:).
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Houdini
 
@@ -27,12 +28,15 @@ https://github.com/user-attachments/assets/ab561dfb-3314-47a4-82a9-7296e9574e01
 
 Unreal VFX Niagara System & Niagara Emitter used to made this 
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Unity ~ MAYA 
 
 https://github.com/user-attachments/assets/0c6387ca-11e8-4e7e-917e-fdc3c7633b80
 
 fully modular character clothing system using a single shared humanoid skeleton.
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Real-Time VFX (Unity HDRP)
 
@@ -40,7 +44,9 @@ https://github.com/user-attachments/assets/2b003e58-ff02-470c-a38a-52b23748a8b2
 
 Made Rain , Repple , and Rain drops using VFX_Graph
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Unity Tools
 
 https://github.com/user-attachments/assets/f6e5b1e7-c169-48ce-a303-c1309ef89987
 
@@ -50,39 +56,57 @@ A procedural Stretch & Squash system for Unity built using a low-level IAnimatio
 
 This tool applies stretch and squash directly in the animation stream, layered non-destructively on top of IK and existing animations.
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Unity SDF 
 
 https://github.com/user-attachments/assets/a368e9c9-7b07-4ec9-9d16-1b20447a12b0
 
 Signed Distance Fields (SDFs) in the Visual Graph
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Unity
 
 https://github.com/user-attachments/assets/fdcbcc53-ddd9-4b3a-9939-aec4c3df47da
 
 Its an Galaxy Sim Using Unity DOTS 
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Unity HLDL Shader
 
 https://github.com/user-attachments/assets/e67eb8f6-84ac-4aca-a393-7f03fb969a51
 
 Made HLSL Shader for Chrachter Glow and VFX Grapf for Environment lighting.
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Unity VFX Graph
 
 https://github.com/user-attachments/assets/2006c91a-b7c2-4328-95b0-e1e43847db1d
 
 Made Snow Fall and Decals where the snow lands Using VFX Graph
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Prefab Animation ~ Unity
 
 https://github.com/user-attachments/assets/457c0ca6-cbb6-4183-800b-bd7e535db43a
 
 Animations Prefab
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+UNITY HDRP Custom Fog
 
 https://github.com/user-attachments/assets/8bada2df-31d6-4f60-ba32-6c9889c2a4d0
 
 Made Volumetric FOG usng VFX_Graph in Unity HDRP
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Unity Animation Works 
 
 
 https://github.com/user-attachments/assets/2b35517b-086f-4d7d-95c6-1f565b562969
