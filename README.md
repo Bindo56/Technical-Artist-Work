@@ -8,20 +8,26 @@ Maya Animations [Scroll To Animations Sections](#maya-animations)
 
 
 
+Motion Builder 
+
 https://github.com/user-attachments/assets/891a6e34-9bbe-42e1-bb24-677dfa32f2d2
 
 Retargeted humanoid animation to a cartoon rig in MotionBuilder, focusing on pipeline workflow and skeleton mapping. (Hand motion requires further refinement :sweat_smile:).
 
 
+Houdini
+
 https://github.com/user-attachments/assets/bf4a4a49-79ce-4c54-9b36-95a101dd8574
 
 Blade Trace FX – Procedural Look Development (Houdini)
 
+Unreal 
 
 https://github.com/user-attachments/assets/ab561dfb-3314-47a4-82a9-7296e9574e01
 
 Unreal VFX Niagara System & Niagara Emitter used to made this 
 
+Unity ~ MAYA 
 
 https://github.com/user-attachments/assets/0c6387ca-11e8-4e7e-917e-fdc3c7633b80
 
