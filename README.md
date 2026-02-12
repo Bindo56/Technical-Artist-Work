@@ -7,6 +7,12 @@ For MAYA 3D Modeling and 2D Artwork
 Maya Animations [Scroll To Animations Sections](#maya-animations)
 
 
+
+https://github.com/user-attachments/assets/891a6e34-9bbe-42e1-bb24-677dfa32f2d2
+
+Retargeted humanoid animation to a cartoon rig in MotionBuilder, focusing on pipeline workflow and skeleton mapping. (Hand motion requires further refinement :sweat_smile:).
+
+
 https://github.com/user-attachments/assets/bf4a4a49-79ce-4c54-9b36-95a101dd8574
 
 Blade Trace FX – Procedural Look Development (Houdini)
