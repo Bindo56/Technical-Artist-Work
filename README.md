@@ -30,7 +30,7 @@ Character Movement , Aim offsets, IK (FABRIK), turn-in-place , Crouching, strafi
 
 https://github.com/user-attachments/assets/3506e5fc-09d4-43b2-a0d3-4c327ef628ca
 
-
+Using Mixamo Character and Animations 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
