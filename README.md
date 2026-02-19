@@ -24,6 +24,16 @@ Retargeted humanoid animation to a cartoon rig in MotionBuilder, focusing on pip
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Character Movement , Aim offsets, IK (FABRIK), turn-in-place , Crouching, strafing, leaning, and blendspaces (Unreal Enigne)
+
+
+
+https://github.com/user-attachments/assets/3506e5fc-09d4-43b2-a0d3-4c327ef628ca
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Houdini
 
 https://github.com/user-attachments/assets/bf4a4a49-79ce-4c54-9b36-95a101dd8574
