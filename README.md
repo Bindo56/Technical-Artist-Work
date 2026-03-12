@@ -10,6 +10,18 @@ Maya Animations [Scroll To Animations Sections](#maya-animations)
 
 Motion builder 
 
+
+https://github.com/user-attachments/assets/6a87d176-c793-42ea-a991-63cd06bfdb59
+
+
+
+Motion Capture Pipeline: 
+C3D Data → MotionBuilder Actor Solve → Skeleton Retargeting → Unity Integration.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Motion builder 
+
 https://github.com/user-attachments/assets/140bd341-32d7-4d23-a8ee-0359ae0b5f72
 
 Created a merged animation sequence in MotionBuilder to explore how large-scale production pipelines organize and integrate multiple motion clips into cohesive character behavior.
