@@ -1,4 +1,4 @@
-# Tech Artist
+# Technical Gameplay & Animation Systems
 Experienced in lighting, rigging, shader creation, and level setup across Unity and Unreal Engine. Understanding of real-time rendering, optimization, and asset pipelines, experience in C#, C++, and Blueprints.
 
 For MAYA 3D Modeling and 2D Artwork 
