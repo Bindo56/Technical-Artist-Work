@@ -1,5 +1,5 @@
 # Technical Gameplay & Animation Systems
-Experienced in lighting, rigging, shader creation, and level setup across Unity and Unreal Engine. Understanding of real-time rendering, optimization, and asset pipelines, experience in C#, C++, and Blueprints.
+Focused on gameplay systems, technical animation, rigging workflows, shaders, lighting, and runtime systems across Unity and Unreal Engine. Experienced in real-time rendering, optimization, asset pipelines, and gameplay architecture using C#, C++, and Blueprint scripting.
 
 For MAYA 3D Modeling and 2D Artwork 
 [Artstation](https://www.artstation.com/bindo56)
